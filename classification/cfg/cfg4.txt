@@ -1,0 +1,10 @@
+img_width = 256
+img_height = 256
+train_data_dir = data/256/train
+validation_data_dir = data/256/validation
+nb_train_samples = 500
+nb_validation_samples = 48
+epochs = 30
+batch_size = 4
+without_augmentation = False
+generator_params = {rotation_range : 5, width_shift_range : 0.1, height_shift_range : 0.1, shear_range : 0.1, zoom_range : 0.2, horizontal_flip : True}

@@ -1,0 +1,9 @@
+img_width = 512
+img_height = 512
+train_data_dir = data/512/train
+validation_data_dir = data/512/validation
+nb_train_samples = 182
+nb_validation_samples = 48
+epochs = 40
+batch_size = 4
+without_augmentation = True
