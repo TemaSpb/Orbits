@@ -7,3 +7,4 @@ nb_validation_samples = 48
 epochs = 30
 batch_size = 4
 without_augmentation = True
+result_name = 3

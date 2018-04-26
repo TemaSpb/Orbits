@@ -1,0 +1,4 @@
+cfg name = cfg1.txt
+loss : 7.38753070114
+acc : 0.541666666667
+recall : 0.0
