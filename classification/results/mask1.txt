@@ -1,4 +1,6 @@
-cfg name = cfg_mask1.txt
-loss : 8.059047718974613
+cfg name : cfg_mask1.txt
+loss : 8.059
 acc : 0.5
 recall : 0.0
+precision : 0.0
+f1 : 0.0
